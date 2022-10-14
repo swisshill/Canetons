@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #f3f6fa;
+		background: #b5ceef;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #7c8081;
+		color: #11677a;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
